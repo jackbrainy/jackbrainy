@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Engineer 👨‍💻<br>C++ | OOP | Data Structures & Algorithms<br>Building logic, one program at a time.
+Aspiring Engineer 👨‍💻<br>C++ | OOP | Data Structures & Algorithms<br>Building logic, one program at a time.
 
 
 ## 🌐 Socials:
