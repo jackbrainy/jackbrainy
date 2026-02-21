@@ -1,7 +1,6 @@
 # 💫 About Me
 
-Aspiring Engineer 👨‍💻<br>C++ | OOP | Data Structures & Algorithms<br>Building logic, one program at a time.
-
+🎓 ECE Student | AIML Explorer <br>C++ | OOP | 💻 Passionate about C++ & Problem Solving <br>🔍 Learning. Building. Growing.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jack_rj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jackr@karunya.edu.in) 
