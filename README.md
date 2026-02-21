@@ -1,7 +1,4 @@
 # 💫 About Me
-🎓 ECE Student | AIML Explorer
-💻 Passionate about C++ & Problem Solving
-🔍 Learning. Building. Growing.
 
 Aspiring Engineer 👨‍💻<br>C++ | OOP | Data Structures & Algorithms<br>Building logic, one program at a time.
 
